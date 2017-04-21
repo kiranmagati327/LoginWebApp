@@ -35,11 +35,11 @@
 	<url>http://192.168.253.1:8081/nexus/content/repositories/releases/</url>
 	</repository>
 	
-	<snapShotrepository>
+	<snapshotRepository>
 	<id>snapshots</id>
 	<name>Snapshots</name>
 	<url>http://192.168.253.1:8081/nexus/content/repositories/snapshots/</url>
-	</snapShotrepository>
+	</snapshotRepository>
 	
 	</distributionManagement>
 </project>
